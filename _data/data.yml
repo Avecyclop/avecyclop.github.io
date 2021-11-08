@@ -1,108 +1,102 @@
-name: John Doe
+name: Anders Stenervall
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: avecyclop@gmail.com
+  github: https://github.com/Avecyclop/
+  linkedin: https://www.linkedin.com/in/anders-stenervall-ba730a10/
   phone: 
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Swedish
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Program and system development
+    time: 2005-2008
+    university: KTH (Royal Institute of Technology)
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Technology & computers
+    time: 2002-2005
+    university: Kärrtorps gymnasium
 
 skills:
-  - category: Backend
+  - category: Programming
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
+      - Java
+      - Kotlin
       - Docker
-      - Kubernetes 
+      - Bash
+      - Groovy
+  - category: Practices
+    skill:
+      - TDD
+      - CI/CD
+      - Pair programming
+      - Code reviewing
+  - category: Methodologies
+    skill:
+      - Kanban
+      - Scrum
+      - DevOps
 
-# Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Java Developer with over 12 years experience working in various agile projects.
+  I’ve spent the majority of my career working in the tech hub of Stockholm, Sweden but have spent the last couple of years working in London.
+  I like clean, well-tested code and I automate anything I have to do more than twice.
 
-# Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Platform Engineer
+    time: 2019-2021
+    company: Buildit @ Wipro Digital
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      As a consultant and technology generalist I supported clients in various digital transformations.
+      Helping them adapt to contemporary technologies, ways of working, and practices.
+      Being hands on I directly assisted teams to reduce time to market, by containerising applications,
+      building continuous delivery pipelines, and improving ways of working by streamlining processes.
+    technologies_used: |
+      Google Cloud Platform, Docker, Bash, Java 8, Maven, Jenkins, Aquasec, Git, Kubernetes, Terraform
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Continuous Delivery Engineer
+    time: 2017-2019
+    company: NetEnt
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Developer of delivery pipelines to increase quality and delivery speed of both microservices
+      and monolithic applications: Maintaining, upgrading and evolving the tooling. I also directly
+      supported the feature teams in building better software and improving their ways of working.
+    technologies_used: |
+      Groovy, Kotlin, Bash, Java 8/10/11, Gradle, Maven, Docker, Jenkins, Jenkins Pipeline,
+      Bitbucket, SonarQube, Puppet, OpenShift (Kubernetes), Kanban, Git, Grafana, Prometheus
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
+  - role: Java developer
+    time: 2015-2017
+    company: NetEnt
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Backend developer on a greenfield microservice style project, lots of focus on
+      functional programming and testing (both unit tests and integration tests between services).
+    technologies_used: |
+      Java 8, Kotlin, Maven, Docker, Dropwizard, REST, Puppet, TDD, BDD,
+      Mutation testing, Functional programming, Scrum, SVN, Git
 
-  - title: Cool Project 
-    link: #
+  - role: Software Engineer
+    time: 2009-2014
+    company: Giesecke & Devrient 3S AB
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Backend developer on a mobile payment solution.
+      Distributed project where server was developed in Stockholm and client in Helsinki.
+      Server-side provided a REST API with JSON,and a front-end for administration.
+    technologies_used: |
+      Java 5/6, Spring, Tomcat, Maven, Vaadin, Hibernate, Oracle, Scrum, ClearCase
 
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - role: Developer 
+    time: 2008-2009
+    company: PAF
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Part of a team working with integration of third party providers. High technical debt in 
+      existing systems made us focus on increasing test coverage and refactoring code.
+    technologies_used: |
+      JavaEE 6, Spring, WebSphere, Maven, Scrum, SVN
