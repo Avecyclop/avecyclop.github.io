@@ -5,8 +5,8 @@ fork: true
 # Sidebar
 contact:
   email: avecyclop@gmail.com
-  github: https://github.com/Avecyclop/
-  linkedin: https://www.linkedin.com/in/anders-stenervall-ba730a10/
+  github: Avecyclop
+  linkedin: anders-stenervall-ba730a10
   phone: 
   gitlab: 
   twitter: 
@@ -51,7 +51,7 @@ profile: |
 
 experience:
   - role: Platform Engineer
-    time: 2019-2021
+    time: 2019 - 2021
     company: Buildit @ Wipro Digital
     details: |
       As a consultant and technology generalist I supported clients in various digital transformations.
@@ -62,7 +62,7 @@ experience:
       Google Cloud Platform, Docker, Bash, Java 8, Maven, Jenkins, Aquasec, Git, Kubernetes, Terraform
   
   - role: Continuous Delivery Engineer
-    time: 2017-2019
+    time: 2017 - 2019
     company: NetEnt
     details: |
       Developer of delivery pipelines to increase quality and delivery speed of both microservices
@@ -73,7 +73,7 @@ experience:
       Bitbucket, SonarQube, Puppet, OpenShift (Kubernetes), Kanban, Git, Grafana, Prometheus
 
   - role: Java developer
-    time: 2015-2017
+    time: 2015 - 2017
     company: NetEnt
     details: |
       Backend developer on a greenfield microservice style project, lots of focus on
@@ -83,7 +83,7 @@ experience:
       Mutation testing, Functional programming, Scrum, SVN, Git
 
   - role: Software Engineer
-    time: 2009-2014
+    time: 2009 - 2014
     company: Giesecke & Devrient 3S AB
     details: |
       Backend developer on a mobile payment solution.
@@ -93,7 +93,7 @@ experience:
       Java 5/6, Spring, Tomcat, Maven, Vaadin, Hibernate, Oracle, Scrum, ClearCase
 
   - role: Developer 
-    time: 2008-2009
+    time: 2008 - 2009
     company: PAF
     details: |
       Part of a team working with integration of third party providers. High technical debt in 
