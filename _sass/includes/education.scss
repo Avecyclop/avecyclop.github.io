@@ -5,11 +5,14 @@
     }
     .education-item {
         margin-bottom: 20px;
-        .degree {
+        .program {
             @include body-text;
             font-weight: bold;
         }
-        .university {
+        .school {
+            @include body-text;
+        }
+        .type {
             @include body-text;
         }
         .time {

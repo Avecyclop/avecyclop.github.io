@@ -1,12 +1,11 @@
 name: Anders Stenervall
 support_dark_mode: true
-fork: true
 
 # Sidebar
 contact:
   email: avecyclop@gmail.com
   github: Avecyclop
-  linkedin: anders-stenervall-ba730a10
+  linkedin: anders-stenervall
   phone: 
   gitlab: 
   twitter: 
@@ -16,38 +15,58 @@ languages:
   - idiom: Swedish
 
 education:
-  - degree: Program and system development
+  - program: Program and system development
+    school: KTH (Royal Institute of Technology)
+    type: (University)
     time: 2005-2008
-    university: KTH (Royal Institute of Technology)
 
-  - degree: Technology & computers
+  - program: Technology & computers
+    school: Kärrtorps gymnasium
+    type: (Upper secondary school eq.)
     time: 2002-2005
-    university: Kärrtorps gymnasium
 
 skills:
-  - category: Programming
+  - category: Java
     skill: 
-      - Java
+      - Java 8/11/17
+      - Spring Boot
+      - Maven
+      - Gradle
       - Kotlin
-      - Docker
-      - Bash
       - Groovy
-  - category: Practices
+      - Vaadin
+      - Guice
+  - category: Back-end
     skill:
-      - TDD
+      - Java
+      - Microservices
+      - Functional Programming
+      - NGINX
+      - Dropwizard
+  - category: DevOps
+    skill:
+      - Jenkins
       - CI/CD
-      - Pair programming
-      - Code reviewing
-  - category: Methodologies
+      - Jenkins Pipeline
+      - Docker
+      - Kubernetes
+      - Git
+  - category: Testing
     skill:
-      - Kanban
-      - Scrum
-      - DevOps
+      - JUnit
+      - Mockito
+      - AssertJ
+      - TDD
+      - BDD
+      - Cucumber
 
+# Main
 profile: |
-  Java Developer with over 12 years experience working in various agile projects.
-  I’ve spent the majority of my career working in the tech hub of Stockholm, Sweden but have spent the last couple of years working in London.
-  I like clean, well-tested code and I automate anything I have to do more than twice.
+  Skilled Java Developer with 10+ years of strong experience in Back-end Development, Testing, TDD/BDD, RESTful & APIs areas
+  with willingness to learn and master IaaS and DevOps. CI/CD specialist.
+
+  I’ve spent the majority of my career working in the tech hub of Stockholm, but have spent the last couple of years working in London.
+  Now looking for a back-end developer job with a hybrid work model here in Southampton.
 
 experience:
   - role: Platform Engineer
