@@ -30,11 +30,10 @@ skills:
     skill: 
       - Java 8/11/17
       - Spring Boot
+      - Kotlin
       - Maven
       - Gradle
-      - Kotlin
       - Groovy
-      - Vaadin
       - Guice
   - category: Back-end
     skill:
@@ -42,7 +41,6 @@ skills:
       - Microservices
       - Functional Programming
       - NGINX
-      - Dropwizard
   - category: DevOps
     skill:
       - Jenkins
@@ -59,17 +57,27 @@ skills:
       - TDD
       - BDD
       - Cucumber
+      - TestNG
 
-# Main
+# Main content
 profile:
   - paragraph : |
-      Skilled Java Developer with 10+ years of strong experience in Back-end Development, Testing, TDD/BDD, RESTful & APIs areas
-      with willingness to learn and master IaaS and DevOps. CI/CD specialist.
+      Skilled Java Developer with 10+ years of strong experience in Back-end Development, Testing, TDD/BDD, RESTful & APIs areas.
+      CI/CD specialist, with a keen focus on testing.
   - paragraph: |
-      I’ve spent the majority of my career working in the tech hub of Stockholm, but have spent the last couple of years working in London.
-      Now looking for a back-end developer job with a hybrid work model here in Southampton.
+      I’ve spent the majority of my career working in the tech hub of Stockholm, but have spent the last 5 years working in London & Southampton.
+      Looking for a Java developer role 2024, preferably a hybrid work model here in Southampton but open to fully remote roles.
 
 experience:
+  - role: Software Engineer consultant
+    time: 2022 - 2023
+    company: Netshell / Kindred Group
+    details: |
+      Consultant for Kindred Group where I was a part of their sportsbook integration team.
+      Handling integration with multiple third party provider APIs and services, supporting 2000 bets per minute.
+    technologies_used: |
+      Java 17, Docker, Kubernetes, Solace, Kafka, Maven, Jenkins, SonarQube, Git
+
   - role: Platform Engineer
     time: 2019 - 2021
     company: Buildit @ Wipro Digital
@@ -80,7 +88,7 @@ experience:
       building continuous delivery pipelines, and improving ways of working by streamlining processes.
     technologies_used: |
       Google Cloud Platform, Docker, Bash, Java 8, Maven, Jenkins, Aquasec, Git, Kubernetes, Terraform
-  
+
   - role: Continuous Delivery Engineer
     time: 2017 - 2019
     company: NetEnt
