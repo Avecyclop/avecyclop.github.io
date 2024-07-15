@@ -17,5 +17,10 @@
                 display: none;
             }
         }
+        .job-title {
+            color: var(--fg-color-dark);
+            font-weight: bolder;
+            text-transform: uppercase;
+        }
     }
 }

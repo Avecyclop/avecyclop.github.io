@@ -1,4 +1,5 @@
 name: Anders Stenervall
+job-title: Senior Java Developer
 support_dark_mode: true
 
 # Sidebar
@@ -20,27 +21,22 @@ education:
     type: (University)
     time: 2005-2008
 
-  - program: Technology & computers
-    school: Kärrtorps gymnasium
-    type: (Upper secondary school eq.)
-    time: 2002-2005
-
 skills:
   - category: Java
     skill: 
       - Java 8/11/17
+      - Spring
       - Spring Boot
       - Kotlin
       - Maven
       - Gradle
       - Groovy
-      - Guice
   - category: Back-end
     skill:
       - Java
       - Microservices
       - Functional Programming
-      - NGINX
+      - nginx
   - category: DevOps
     skill:
       - Jenkins
@@ -48,25 +44,21 @@ skills:
       - Jenkins Pipeline
       - Docker
       - Kubernetes
-      - Git
   - category: Testing
     skill:
       - JUnit
       - Mockito
-      - AssertJ
       - TDD
       - BDD
-      - Cucumber
       - TestNG
+      - Gatling
 
 # Main content
 profile:
   - paragraph : |
-      Skilled Java Developer with 10+ years of strong experience in Back-end Development, Testing, TDD/BDD, RESTful & APIs areas.
-      CI/CD specialist, with a keen focus on testing.
-  - paragraph: |
-      I’ve spent the majority of my career working in the tech hub of Stockholm, but have spent the last 5 years working in London & Southampton.
-      Looking for a Java developer role 2024, preferably a hybrid work model here in Southampton but open to fully remote roles.
+      Java Developer with 14 years of experience specializing in Spring technologies and test-driven development.
+      With the majority of my career working in small agile teams, developing and maintaining microservices.
+      I apply a DevOps mindset to my work and love developing CI/CD solutions.
 
 experience:
   - role: Software Engineer consultant
