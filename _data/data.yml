@@ -27,16 +27,12 @@ skills:
       - Java 8/11/17
       - Spring
       - Spring Boot
+      - Spring Web
+      - Spring Data
       - Kotlin
       - Maven
       - Gradle
       - Groovy
-  - category: Back-end
-    skill:
-      - Java
-      - Microservices
-      - Functional Programming
-      - nginx
   - category: DevOps
     skill:
       - Jenkins
@@ -58,7 +54,7 @@ profile:
   - paragraph : |
       Java Developer with 14 years of experience specializing in Spring technologies and test-driven development.
       With the majority of my career working in small agile teams, developing and maintaining microservices.
-      I apply a DevOps mindset to my work and love developing CI/CD solutions.
+      I apply a DevOps mindset to my work and love developing CI/CD solutions to speed up releases.
 
 experience:
   - role: Software Engineer consultant
