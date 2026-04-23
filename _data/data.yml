@@ -16,7 +16,7 @@ languages:
   - idiom: Swedish
 
 education:
-  - program: Program and System Development
+  - program: Program & System Development
     school: KTH (Royal Institute of Technology)
     type: (University)
     time: 2005 - 2008
@@ -30,8 +30,6 @@ skills:
       - Spring Web
       - Spring Data
       - Kotlin
-      - Maven
-      - Gradle
       - Groovy
   - category: DevOps
     skill:
@@ -40,26 +38,32 @@ skills:
       - Jenkins Pipeline
       - Docker
       - Kubernetes
+      - Maven
+      - Gradle
   - category: Testing
     skill:
       - JUnit
       - Mockito
+      - Testcontainers
       - TDD
       - BDD
-      - TestNG
-      - Gatling
+  - category: Other
+    skill:
+      - Functional programming
+      - Shift-left
+      - Pair-programming
 
 # Main content
 profile:
   - paragraph : |
-      Java Developer with 15+ years of experience specializing in Spring technologies and test-driven development,
-      with the majority of my career working in small agile teams, developing and maintaining microservices.
+      Java Developer with 15+ years of experience, specializing in Spring technologies and test-driven development
+      - with the majority of my career working in small agile teams, developing and maintaining microservices.
       I apply a DevOps mindset to my work and love developing CI/CD solutions to speed up releases.
 
 experience:
   - role: Developer
     time: 2024 - ongoing
-    company: Byhiras
+    company: Byhiras Europe
     details: |
       Java Developer of a data aggregator platform for investment supply chains in the private equity industry.
       Developing highly configurable data parsers and aggregators.
