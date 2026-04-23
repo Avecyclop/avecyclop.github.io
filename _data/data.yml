@@ -4,7 +4,7 @@ support_dark_mode: true
 
 # Sidebar
 contact:
-  email: avecyclop@gmail.com
+  email: hireanders@gmail.com
   github: Avecyclop
   linkedin: anders-stenervall
   phone: 
@@ -16,7 +16,7 @@ languages:
   - idiom: Swedish
 
 education:
-  - program: Program and system development
+  - program: Program and System Development
     school: KTH (Royal Institute of Technology)
     type: (University)
     time: 2005 - 2008
@@ -24,7 +24,7 @@ education:
 skills:
   - category: Java
     skill: 
-      - Java 8/11/17
+      - Java 8/11/17/21
       - Spring
       - Spring Boot
       - Spring Web
@@ -52,17 +52,26 @@ skills:
 # Main content
 profile:
   - paragraph : |
-      Java Developer with 14 years of experience specializing in Spring technologies and test-driven development.
-      With the majority of my career working in small agile teams, developing and maintaining microservices.
+      Java Developer with 15+ years of experience specializing in Spring technologies and test-driven development,
+      with the majority of my career working in small agile teams, developing and maintaining microservices.
       I apply a DevOps mindset to my work and love developing CI/CD solutions to speed up releases.
 
 experience:
+  - role: Developer
+    time: 2024 - ongoing
+    company: Byhiras
+    details: |
+      Java Developer of a data aggregator platform for investment supply chains in the private equity industry.
+      Developing highly configurable data parsers and aggregators.
+    technologies_used: |
+      Java 17/21, gRPC, Protobuf, Docker, Kubernetes, Kafka, Maven, Jenkins, Git
+
   - role: Software Engineer consultant
     time: 2022 - 2023
     company: Netshell / Kindred Group
     details: |
       Consultant for Kindred Group where I was a part of their sportsbook integration team.
-      Handling integration with multiple third party provider APIs and services, supporting 2000 bets per minute.
+      Handling integration with multiple third party provider APIs and services, processing 2000 bets per minute.
     technologies_used: |
       Java 17, Docker, Kubernetes, Solace, Kafka, Maven, Jenkins, SonarQube, Git
 
@@ -88,7 +97,7 @@ experience:
       Groovy, Kotlin, Bash, Java 8/10/11, Gradle, Maven, Docker, Jenkins, Jenkins Pipeline,
       Bitbucket, SonarQube, Puppet, OpenShift (Kubernetes), Kanban, Git, Grafana, Prometheus
 
-  - role: Java developer
+  - role: Java Developer
     time: 2015 - 2017
     company: NetEnt
     details: |
