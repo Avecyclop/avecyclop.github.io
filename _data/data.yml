@@ -1,5 +1,5 @@
 name: Anders Stenervall
-job-title: Senior Java Developer
+job-title: Java Software Engineer
 support_dark_mode: true
 
 # Sidebar
@@ -61,7 +61,7 @@ profile:
       I apply a DevOps mindset to my work and love developing CI/CD solutions to speed up releases.
 
 experience:
-  - role: Developer
+  - role: Software Engineer
     time: 2024 - ongoing
     company: Byhiras Europe
     details: |
